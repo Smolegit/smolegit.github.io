@@ -1,0 +1,11 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden; 
+    font: 16px/1 "Victor Mono";
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
